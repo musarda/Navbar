@@ -1,4 +1,4 @@
-# Navbar Making Navbars with HTML - CSS
+# Making Navbars with HTML - CSS
 
 # Desktop:
 
