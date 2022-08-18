@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <link rel="stylesheet" href="style.css" />
+   <title>musarda - navbar</title>
+ </head>
+ <body>
+   <nav class="navbar">
+     <!-- Logo -->
+     <div class="logo">musarda - navbar</div>
+     <!-- Navigation Menu -->
+     <ul class="nav-links">
+       <!-- Usıng Checkbox Hack -->
+       <input type="checkbox" id="checkbox_toggle" />
+       <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+       <!-- Navigations Menus -->
+       <div class="menu">
+         <li><a href="#Home">Home</a></li>
+         <li><a href="#About">About</a></li>
+         <li class="services">
+           <a href="#Services">Services</a>
+           <!-- Dropdown Menu -->
+           <ul class="dropdown">
+             <li><a href="#Dropdown1">Dropdown 1 </a></li>
+             <li><a href="#Dropdown2">Dropdown 2</a></li>
+             <li><a href="#Dropdown3">Dropdown 2</a></li>
+             <li><a href="#Dropdown4">Dropdown 3</a></li>
+             <li><a href="#Dropdown5">Dropdown 4</a></li>
+           </ul>
+         </li>
+         <li><a href="#Pricing">Pricing</a></li>
+         <li><a href="#Contact">Contact</a></li>
+       </div>
+     </ul>
+   </nav>
+ </body>
+</html>
