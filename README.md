@@ -1,13 +1,12 @@
-# Navbar
-                                                   Making Navbars with HTML - CSS
+# Navbar Making Navbars with HTML - CSS
 
-Desktop:
+# Desktop:
 
 ![navbar](https://user-images.githubusercontent.com/107439786/185370911-07530c48-ff11-4b41-8cc2-bf6cb912f0c1.png)
 
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/107439786/185381838-77fc02e4-c400-48a6-b8b8-e309830e0688.PNG)
 
-Mobile:
+#Mobile:
 
 ![phonenavbar](https://user-images.githubusercontent.com/107439786/185381957-d78850d6-9c5e-4b2a-9ada-ffe3500ba686.png)
 
