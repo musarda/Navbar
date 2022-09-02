@@ -8,13 +8,8 @@
 
 # Mobile:
 
-![phonenavbar](https://user-images.githubusercontent.com/107439786/185381957-d78850d6-9c5e-4b2a-9ada-ffe3500ba686.png)
+![phonenavbar](https://user-images.githubusercontent.com/107439786/185381957-d78850d6-9c5e-4b2a-9ada-ffe3500ba686.png)        ![Ekran Alıntısı2](https://user-images.githubusercontent.com/107439786/185381988-413da50c-a58b-4106-9296-6bf58dc6d57d.PNG)      ![Ekran Alıntısı22](https://user-images.githubusercontent.com/107439786/185382233-0612466f-6040-42df-afbe-42ee0c4f3d1a.PNG)
 
-
-![Ekran Alıntısı2](https://user-images.githubusercontent.com/107439786/185381988-413da50c-a58b-4106-9296-6bf58dc6d57d.PNG)
-
-
-![Ekran Alıntısı22](https://user-images.githubusercontent.com/107439786/185382233-0612466f-6040-42df-afbe-42ee0c4f3d1a.PNG)
 
 
 Twitter:https://twitter.com/musardas
