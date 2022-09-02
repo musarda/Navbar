@@ -17,6 +17,4 @@
 ![Ekran Alıntısı22](https://user-images.githubusercontent.com/107439786/185382233-0612466f-6040-42df-afbe-42ee0c4f3d1a.PNG)
 
 
-YoTube Channel:https://www.youtube.com/channel/UCbgwI1yLYACWmTu34W7nXSw/about
-
-Discord Server:https://discord.gg/kRVZX8Tr64
+Twitter:https://twitter.com/musardas
